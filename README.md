@@ -1,4 +1,4 @@
-# Socket Programming
+# Simple Chat Server
 ## Overview
 
 This project focuses on socket programming in the context of computer networks. It covers the implementation of both TCP and UDP communication protocols, along with a simple chat server and client application. The project consists of several small programs designed to help understand and apply the fundamentals of socket programming using TCP and UDP, as well as to explore network programming concepts like multiple socket handling using `select()`.
